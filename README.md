@@ -15,12 +15,12 @@ Users can purchase credits, and AI functionality is powered using external APIs.
 
 ## 🧠 Tech Stack & Services Used
 - **Frontend:** React / Vite
-- **Backend:** Node.js
-- **Database:** Neon (PostgreSQL) + Prisma
-- **Auth:** Better Auth
-- **AI API:** OpenRouter
-- **Payments:** Stripe
-- **Deployment:** Vercel
+- **Backend:-** Node.js
+- **Database:-** Neon (PostgreSQL) + Prisma
+- **Auth:-** Better Auth
+- **AI API:-** OpenRouter
+- **Payments:-** Stripe
+- **Deployment:-** Vercel
 
 ---
 
