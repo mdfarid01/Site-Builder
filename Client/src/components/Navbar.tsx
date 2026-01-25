@@ -52,7 +52,7 @@ const Navbar = () => {
           ) : (
             <>
             <button className='bg-white/10 px-5 py-1.5 text-xs sm:text-sm border text-gray-200 rounded-full'>
-            Credit : <span className='text-indigo-300'>{credits}</span>
+            Credits: <span className='text-indigo-300'>{credits}</span>
             </button>
             <UserButton size='icon'/>
             </>
